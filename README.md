@@ -1,6 +1,8 @@
 # DeberPrimerosPasos
 (Caso no conozca ciertas palabras referente el juego estas estan comentadas con una explicación rapida , si no conoce habilidades o al referente aqui se les podra unos ejemplos :D)
 
+(Para que los mensajes puedan aparecer en consola presionar la tecla ENTER)
+
 Bienvenido al programa del video juego Dota2 
 
 1.- Lo primero que se debe hacer es copiar los archivos cs.
